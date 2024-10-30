@@ -1,0 +1,7 @@
+/**
+ *	Stylesheet file
+ *	@package: Horoscope
+ *	@since: 2.1.8
+ *	@modified: 5.4.7
+ */
+#horoscope-widget h3#horoscope-sign-title{cursor:pointer;font-size:18pt;text-align:center}#horoscope-widget p#horoscope-sign-subtitle{font-size:10pt;text-align:center}#horoscope-widget p#horoscope-sign-content{text-align:center}#horoscopewidget #horoscope-sign-list{cursor:pointer;text-align:left}#horoscope-widget #horoscope-credits{font-size:8pt;text-align:center}#horoscope-widget img.horoscope-sign-widget{margin:4px;width:20%}#horoscope-widget i.horoscope-left-arrow{border:solid;border-width:0 1px 1px 0;display:inline-block;margin:2px 8px;padding:4px;transform:rotate(135deg);vertical-align:middle;-moz-tranform:rotate(135deg);-ms-tranform:rotate(135deg);-o-tranform:rotate(135deg);-webkit-transform:rotate(135deg)}
